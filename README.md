@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Saoud-100/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
