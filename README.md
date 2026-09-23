@@ -1,6 +1,6 @@
 # LeetCode-Solutions
 A collection of LeetCode questions to ace the coding interview!<br>
-Author - MOHAMMAD SAOUD 
+Author - Mohammad Saoud 
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
